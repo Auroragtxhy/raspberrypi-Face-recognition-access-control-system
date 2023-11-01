@@ -1,0 +1,15 @@
+baidu-aip==2.2.18.0
+# certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+PyBluez==0.23
+pygame==2.0.1
+PyQt5==5.15.4
+# PyQt5-Qt5==5.15.2
+# PyQt5-sip==12.9.0
+requests==2.25.1
+# urllib3==1.26.4
+# picamera==1.13
+
+opencv-python~=4.6.0.66
+pillow~=9.2.0
